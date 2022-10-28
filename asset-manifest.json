@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d3ac1e6.css",
+    "main.js": "/static/js/main.32357f7a.js",
+    "static/media/userLogo.jpg": "/static/media/userLogo.3151ec3ca0a96c17d2c6.jpg",
+    "static/media/LOGO-brand.svg": "/static/media/LOGO-brand.ce3b29d63d9abe5fc952079a2e4b9d06.svg",
+    "static/media/Cat.svg": "/static/media/Cat.f27f7b6d137cc6a0b54240f1552b4e4f.svg",
+    "static/media/Volleyball.svg": "/static/media/Volleyball.eea4dc9556d7951d75f3c16fb7fa06c6.svg",
+    "static/media/globalsearch.svg": "/static/media/globalsearch.bc8bd7a135d0a6a42e4383af45706909.svg",
+    "static/media/Car.svg": "/static/media/Car.19a327ab51a1c9a2af70b40f589ad153.svg",
+    "static/media/Sofa.svg": "/static/media/Sofa.4c483b0247db9a2e178f059d31f34967.svg",
+    "static/media/phone-call.svg": "/static/media/phone-call.7518b4dc270b4ae0fe8b7bf68fa578fb.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.93a59dca9a7138398798c9c5cd6f3efc.svg",
+    "static/media/Unlock.svg": "/static/media/Unlock.8aa73f68bc5536a77af68745b7580690.svg",
+    "static/media/IK.svg": "/static/media/IK.3e6958cd784b252ecf4211824a8fc7f2.svg",
+    "static/media/Laptop-computer.svg": "/static/media/Laptop-computer.340ccec16c459543abdc168beb59d120.svg",
+    "static/media/card.svg": "/static/media/card.bad49adc25ada64091cbc72d707c9f28.svg",
+    "static/media/Home.svg": "/static/media/Home.f973f9e778efe946648e9324c9ad053d.svg",
+    "static/media/message.svg": "/static/media/message.6cdcb4300e8e18b09f1da9513641da3c.svg",
+    "static/media/locaton-store.svg": "/static/media/locaton-store.365c7b1afd90728ed4c32b0a2ad0dd63.svg",
+    "static/media/insta.svg": "/static/media/insta.29d3cc4ee553a7ab04a9dd6c0bfdba0c.svg",
+    "static/media/event.svg": "/static/media/event.c40bb78fcf6281472683e6dade368200.svg",
+    "static/media/facebook.svg": "/static/media/facebook.743b69063a0cf7d4408c41657a4e949d.svg",
+    "static/media/all.svg": "/static/media/all.136808ba557406887e21743ec15d06e0.svg",
+    "index.html": "/index.html",
+    "static/media/recycle.svg": "/static/media/recycle.4c47c474592e520d2f6d9d01da132467.svg",
+    "main.6d3ac1e6.css.map": "/static/css/main.6d3ac1e6.css.map",
+    "main.32357f7a.js.map": "/static/js/main.32357f7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3ac1e6.css",
+    "static/js/main.32357f7a.js"
+  ]
+}
